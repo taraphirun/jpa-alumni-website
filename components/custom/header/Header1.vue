@@ -13,7 +13,8 @@
         <div class="logo">
           <NLink to="/">
             <v-img
-              :src="require('@/assets/images/logos/purple-logo.png')"
+              max-width="80px"
+              :src="require('@/assets/images/logos/logo.jpeg')"
               alt="logo"
             />
           </NLink>
