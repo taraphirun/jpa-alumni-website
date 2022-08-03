@@ -12,6 +12,7 @@ export default {
         success: "#2cdd9b"
       },
       light: {
+        
         primary: "#316ce8",
         accent: "#607df9",
         secondary: "#a73aeb",
